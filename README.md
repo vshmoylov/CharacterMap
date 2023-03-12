@@ -1,3 +1,6 @@
-[![Build Status](https://travis-ci.org/bluejamesbond/CharacterMap.svg?branch=master)](https://travis-ci.org/bluejamesbond/CharacterMap)  
 # CharacterMap
 Online CharacterMap / IconViewer / GlphViewer
+
+Originally developed by https://github.com/mathew-kurian. Adjusted for github pages by Victor Shmoilov.
+
+Available at https://vshmoylov.github.io/CharacterMap/

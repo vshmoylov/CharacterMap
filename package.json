@@ -9,6 +9,11 @@
     "email": "MathewKurian@utexas.edu",
     "url": "https://github.com/bluejamesbond"
   },
+  "contributors": [{
+    "name": "Victor Shmoilov",
+    "email": "victor.shmoylov@gmail.com",
+    "url": "https://www.linkedin.com/in/shmoylov/"
+  }],
   "repository": {
     "type": "git",
     "url": "git://github.com/bluejamesbond/CharacterMap.git"
@@ -24,8 +29,6 @@
   ],
   "main": "app.js",
   "license": "MIT",
-  "dependencies": {
-    "express": "4.13.4"
-  },
+  "dependencies": {},
   "readmeFilename": "README.md"
 }
