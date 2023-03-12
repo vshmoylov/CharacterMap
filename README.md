@@ -7,3 +7,4 @@ Available online at https://vshmoylov.github.io/CharacterMap/
 
 Seems like there is a number of alternatives to use:
 * https://www.glyphrstudio.com/online/
+* https://fontdrop.info/
